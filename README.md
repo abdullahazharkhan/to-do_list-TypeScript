@@ -2,5 +2,5 @@
  Simple Console Based To Do App
 
  ```
- npx to-do_list
+npx todolist-assignment
  ```
